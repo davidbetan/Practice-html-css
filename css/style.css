@@ -1,0 +1,133 @@
+body{
+background-color: #DAECE5;
+}
+.cuadro-azul{
+  background-color: #71C6D0;
+  position: relative;
+  padding: 20%;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+
+
+}
+
+.cuadro-trasnp1{
+  background-color: #71C6D0;
+  position: relative;
+  padding: 28%;
+  margin-top: -32%;
+  margin-left: -32%;
+  margin-right: 32%;
+  margin-bottom: 8%;
+
+
+}
+
+.cuadro-amarillo{
+  background-color: #E2E496;
+      position: relative;
+      padding-top: 32%;
+      padding-left: 10%;
+      padding-right: 17%;
+      padding-bottom: 55%;
+      margin-top: -65%;
+      margin-left: -20%;
+      margin-right: 57%;
+      margin-bottom: 14%;
+      left: 98%;
+      top: 0%;
+      right: 16%;
+      z-index: 1;
+      opacity: 0.9;
+}
+
+.cuadro-transp2{
+    background-color: #71C6D0;
+  position: relative;
+  padding: 27%;
+  margin-top: 53%;
+  margin-left: -32%;
+  margin-right: 57%;
+  margin-bottom: 8%;
+  
+
+}
+
+.cuadro-rojo {
+    background-color: #c13f55;
+    position: relative;
+    padding-top: 100%;
+    margin-top: -74%;
+    margin-left: 54%;
+    margin-right: -30%;
+
+}
+
+.cuadro-blanco1{
+  background-color: #f3f9fa;
+  position: relative;
+  padding-top: 67%;
+  padding-left: 11%;
+  margin-top: 21%;
+  margin-left: -26%;
+
+
+}
+
+.cuadro-blanco2{
+  background-color: #f3f9fa;
+  position: relative;
+  padding-top: 111%;
+  margin-top: -89%;
+  margin-left: 27%;
+  margin-right: -30%;
+
+}
+
+.cuadro-amarillo2{
+  background-color: #eaf19c;
+  position: relative;
+  padding-top: 10%;
+  margin-top: 0%;
+  margin-left: -27%;
+  margin-right: 37%;
+
+}
+
+.cuadro-blanco3{
+  background-color: #fff;
+      position: absolute;
+      padding-top: -4%;
+      padding-left: 11%;
+      padding-right: 48%;
+      padding-bottom: 23%;
+      margin-top: 40%;
+      margin-left: -98%;
+      margin-right: 58%;
+      margin-bottom: 14%;
+      /* border: solid; */
+      left: 98%;
+      top: 1%;
+      opacity: 0.9;
+
+}
+
+.cuadro-gris{
+  background-color: #3C4551;
+  position: relative;
+  padding-top: 0%;
+  padding-left: 0%;
+  padding-right: 10%;
+  padding-bottom: 54%;
+  margin-top: -209%;
+  margin-left: 4%;
+  margin-right: 64%;
+  margin-bottom: 13%;
+  left: 65%;
+  top: 0%;
+  right: 0%;
+  z-index: 0;
+  opacity: 0.98;
+}
