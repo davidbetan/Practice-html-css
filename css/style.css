@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'raleway';
+    font-family: 'Raleway-bold';
     src: url('fonts/raleway/raleway-bold-webfont.eot');
     src: url('fonts/raleway/raleway-bold-webfont.eot?#iefix') format('embedded-opentype'),
     url('fonts/raleway/raleway-bold-webfont.woff2') format('woff2'),
@@ -12,7 +12,7 @@
 }
 ​
 @font-face {
-    font-family: 'raleway';
+    font-family: 'Raleway-regular';
     src: url('fonts/raleway/raleway-regular-webfont.eot');
     src: url('fonts/raleway/raleway-regular-webfont.eot?#iefix') format('embedded-opentype'),
     url('fonts/raleway/raleway-regular-webfont.woff2') format('woff2'),
@@ -25,7 +25,7 @@
 }
 ​
 @font-face {
-    font-family: 'raleway';
+    font-family: 'Raleway-thin';
     src: url('fonts/raleway/raleway-thin-webfont.eot');
     src: url('fonts/raleway/raleway-thin-webfont.eot?#iefix') format('embedded-opentype'),
     url('fonts/raleway/raleway-thin-webfont.woff2') format('woff2'),
@@ -136,12 +136,12 @@ background-color: #DAECE5;
   width: 50%;
   padding: 2% 0% 2% 6%;
   position: relative;
-  font-family: Raleway;
+  font-family: Raleway-regular;
 }
 /***********TITULOS Y TEXTOS************/
 .titulo{
   background-color: #E92C48;
-  font-family: Raleway Thin;
+
   display: block;
   width: 237px;
   padding: 2%;
@@ -152,7 +152,7 @@ background-color: #DAECE5;
 }
 #subtitulo1{
 
-      font-family: Raleway;
+      font-family: Raleway-bold;
       color: white;
       font-weight: bold;
       color: white;
@@ -162,7 +162,7 @@ background-color: #DAECE5;
 }
 
 .texto-transp1{
-  font-family: Raleway;
+  font-family: Raleway-thin;
   border-bottom: 1px solid;
   border-color: red;
   padding-bottom: 4%;
@@ -173,7 +173,7 @@ background-color: #DAECE5;
 }
 .texto-transp2{
   padding-top: 1%;
-  font-family: Raleway;
+  font-family: Raleway-thin;
   word-spacing: 5px;
   font-size: 17.5px;
   color: white;
@@ -185,7 +185,7 @@ background-color: #DAECE5;
 }
 ul >li{
   color: #9E9F5C;
-  font-family: Raleway;
+  font-family: Raleway-regular;
   list-style-type: none;
   font-size: 1.1em;
   line-height: 2.1;
@@ -193,11 +193,11 @@ ul >li{
 }
 h2{
   font-weight: lighter;
-  font-family: Raleway;
+  font-family: Raleway-thin;
   font-size: 30px;
 }
 p{
-  font-family: Raleway;
+  font-family: Raleway-regular;
   font-size: 18px;
 
 }
@@ -208,6 +208,7 @@ hr{
   color: #959A9D;
 
 }
+
 /**************links**************/
 a {
   color:black;
